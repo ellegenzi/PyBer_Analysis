@@ -1,3 +1,8 @@
+# Adding practice files.
+matplotlib_practice.ipynb
+statistics_practice.ipynb
+PyBer_ride_data.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
